@@ -8,6 +8,6 @@
 4. [Ventajas y desventajas](ventajas-y-desventajas.md)  
 5. [Ejemplos y usos actuales](ejemplos-y-usos-actuales.md)  
 6. [Conclusión](#conclusion.md)  
-7. [Licencia](#licencia)
+7. [Licencia](licencia.md)
 
 
